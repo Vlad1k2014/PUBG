@@ -1,0 +1,27 @@
+body{
+    background-color:lightblue ;
+}
+
+body img{
+    text-align: center;
+    margin-left: 100px;
+}
+
+h2,h3,h4,h5{
+    text-align: center;
+}
+
+nav{
+   margin: 10px;
+   text-align: center;
+}
+
+nav a {
+    text-decoration: none;
+    padding-right: 60px; 
+    color: black;
+    background-color: aquamarine;
+    border-radius: 20px;
+    text-align: center;
+    padding: 10px;
+}
